@@ -19,7 +19,7 @@
 
 ## Demo
 
-Visit : https://sujinleeme.github.io/react-json-editor/
+Visit : https://johami.github.io/react-json-editor/
 
 ## Installation
 
