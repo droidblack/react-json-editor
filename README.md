@@ -19,7 +19,7 @@
 
 ## Demo
 
-Visit : https://abdullahmalabar.github.io/react-json-editor/
+Visit : https://johami.github.io/react-json-editor/
 
 ## Installation
 
